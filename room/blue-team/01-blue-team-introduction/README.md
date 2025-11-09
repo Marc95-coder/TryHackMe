@@ -6,10 +6,9 @@ This folder contains my notes and writeups for the Blue Team learning path.
 
 ## Course structure
 - `01-blue-team-introduction/` — Intro: what is Blue Team & SOC
-- `02-soc-fundamentals/` — Roles, processes, MITRE ATT&CK basics
-- `03-siem-basics/` — SIEM concepts and hands-on with logs
-- `04-log-analysis/` — Log sources, parsing, detection rules
-- `05-endpoint-detection/` — EDR fundamentals and hunting
+- `02-SOC Team Internals/` — Learn key SOC analyst skills
+- `03-Core SOC Solutions/` — Learn the main security tools used in a SOC — SIEM, EDR, and SOAR
+
 
 (Each subfolder contains a `README.md`, redacted screenshots and notes.)
 
