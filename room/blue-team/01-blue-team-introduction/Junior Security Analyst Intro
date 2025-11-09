@@ -1,0 +1,127 @@
+---
+title: "Junior Security Analyst Intro"
+date: 2025-11-06
+author: "<Your Name>"
+tags: [SOC1, TryHackMe, Intro, SOC, Analyst]
+---
+
+# Junior Security Analyst Intro
+
+> *Play through a day in the life of a Security Analyst and experience their everyday duties.*
+
+---
+
+##  Overview
+Welcome to the world of cyber defense — a place of constantly evolving threats, where every click could hide an attack.  
+In this introduction, you’ll explore the daily responsibilities of a **Junior Security Analyst (SOC Level 1)** and play through a typical workday.
+
+---
+
+##  1. Security Analyst Journey
+
+As a Security Analyst, you are the first line of defense in your organization.  
+Your day often begins by checking the latest cybersecurity news — companies getting breached, new vulnerabilities appearing, and ongoing campaigns being discovered.
+
+Examples of recent incidents (September 2025):
+- Record-breaking DDoS attacks  
+- Campaigns targeting NATO countries  
+- Supply chain compromises  
+- SaaS platform breaches and data leaks  
+
+> **Goal:** Ensure your company *doesn’t* become one of these headlines.
+
+---
+
+##  Your Daily Duties
+As a **Junior Security Analyst (SOC Level 1)**, you work in a 24/7 SOC team and mainly focus on analyzing and triaging security alerts.
+
+Typical duties include:
+-  Monitoring and investigating security alerts  
+-  Participating in SOC brainstorms and team discussions  
+-  Collaborating with other departments (IT, Incident Response, Engineering)  
+-  Continuously learning about new attack techniques and defenses  
+
+**Question:** Which team do you work with as a Junior Security Analyst?  
+ **Answer:** `SOC`
+
+---
+
+##  2. SOC and Your Team
+
+A SOC is made up of many specialists, each contributing in their own way to protect the organization.
+
+| Name | Role | Description |
+|------|-------|-------------|
+| **Will Griffin** | Senior Analyst | Supports junior analysts, takes over complex investigations after initial triage. |
+| **Corey Stevens** | SOC Engineer | Configures and maintains security tools, fine-tunes alerts for better accuracy. |
+| **Emily Conway** | SOC Manager | Oversees the team, reports results to upper management, ensures proper workflow. |
+| **Daniel Herrera** | Incident Responder | Called during major incidents, handles containment and forensic analysis. |
+
+---
+
+##  Career Path Goals
+
+As you gain experience, you’ll be able to specialize and move into advanced roles such as:
+-  Senior SOC Analyst (deep investigations, threat hunting)  
+-  SOC Engineer (tooling, automation)  
+-  Incident Responder (forensics, response management)  
+-  SOC Manager (leadership, reporting, strategic oversight)
+
+Along the way, you’ll:
+- Detect and prevent malware infections (e.g., data stealers)  
+- Analyze and stop phishing campaigns  
+- Participate in major incidents like ransomware attacks  
+- Build detection rules and automations  
+- Learn how companies operate internally  
+
+---
+
+##  3. Being a Security Analyst
+
+Being on the defensive front line isn’t easy — you constantly face new challenges and must keep learning.  
+You’ll triage alerts, resolve tickets, and work under pressure, but it’s rewarding when you successfully stop real threats.
+
+A typical workday includes:
+- 8-hour shifts with multiple alerts and tickets  
+- Prioritizing incidents by severity  
+- Communicating and escalating findings  
+- Documenting every step and action  
+
+> The job can be stressful, but nothing beats the satisfaction of stopping a real-world attack.
+
+---
+
+##  Lab Tasks (TryHackMe Simulation)
+
+### Task 1
+**Question:** What was the malicious IP address in the alerts?  
+ **Answer:** `221.181.185.159`
+
+### Task 2
+**Question:** To whom did you escalate the alert with the malicious IP?  
+ **Answer:** `Will Griffin`
+
+### Task 3
+**Question:** What message did you receive after blocking the IP on the firewall?  
+ **Answer:** `THM{until-we-meet-again}`
+
+---
+
+##  Quick Notes / Key Takeaways
+- SOC work is **teamwork** — no analyst handles everything alone.  
+- Communication is as critical as technical analysis.  
+- The basic workflow: **Alert → Triage → Escalation → Response.**  
+- Blocking an IP is just the start — always investigate the root cause.  
+
+---
+
+##  References
+- TryHackMe Room: [Junior Security Analyst Intro](https://tryhackme.com/)  
+- [The Hacker News – Cyber News September 2025](https://thehackernews.com/)  
+- [Intro to SOC Roles (Elastic Guide)](https://www.elastic.co/)  
+
+---
+
+**Status:**  Module Completed  
+**Last Step:** Escalation & firewall block successfully tested.  
+**Flag:** `THM{until-we-meet-again}`
